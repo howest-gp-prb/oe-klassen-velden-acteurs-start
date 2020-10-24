@@ -32,7 +32,7 @@ Denk ook even na over het volgende : wanneer je straks op bewaren gaat klikken (
 Voorzie ook controle op invoer in je WPF (zie de verplichte velden) : m.a.w. je mag bv geen acteur toevoegen zolang zijn naam niet ingevoerd werd.
 
 
-
+![afbeelding](assets/oe-klassen-acteurs.gif)
 
   
   
